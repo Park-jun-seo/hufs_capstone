@@ -1,2 +1,2 @@
 # hufs_capstone
-#guicode.py  
+#lunch gui_code.py 
